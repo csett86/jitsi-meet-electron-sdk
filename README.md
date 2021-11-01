@@ -1,7 +1,7 @@
 # jitsi-meet-electron-utils
 Utilities for jitsi-meet-electron project.
 
-Supported Electron versions: >= 11 and <=13 (see https://github.com/jitsi/jitsi-meet-electron-utils/issues/126).
+Supported Electron versions: >= 11
 
 ## Usage
 #### Screen Sharing
